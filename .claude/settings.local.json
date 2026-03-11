@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd \"/Users/minhha/Downloads/uigen 2\" && npm run setup 2>&1)"
+    ]
+  }
+}
